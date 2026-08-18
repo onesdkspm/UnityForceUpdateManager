@@ -34,8 +34,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "UnityForceUpdateManager",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityForceUpdateManager/1.0.0-dev-1506704/UnityForceUpdateManager.xcframework.zip",
-            checksum: "39f6ae43cdffff9f869d015e301e4b86d39a19309492e7fb81f024b587a8084d"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityForceUpdateManager/1.0.0-dev-1509114/UnityForceUpdateManager.xcframework.zip",
+            checksum: "435303eb1099df17795575eea378b4e51d23b45dfdbbf529af4d809a35a39406"
         )
     ]
 )
